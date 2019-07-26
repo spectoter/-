@@ -27,7 +27,7 @@
 
 5. Q：关于acm？
       **竞赛生/想打acm的非竞赛生可以着重看这条**  
-   A2：来自实验室的yhf大佬的友情链接orz[点击查看详细的ACM介绍]( https://github.com/yhf2000/SDU-ACM2019-Welcome)
+   A：来自实验室的yhf大佬的友情链接orz[点击查看详细的ACM介绍]( https://github.com/yhf2000/SDU-ACM2019-Welcome)
    
 7. Q：保研和考研怎么说？  
    A：请去官网自己找。  
